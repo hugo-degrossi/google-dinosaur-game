@@ -1,0 +1,1 @@
+Launch the server with npx http-server in the main directory
